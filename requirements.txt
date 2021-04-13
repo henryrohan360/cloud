@@ -1,4 +1,3 @@
-actionlib==1.11.13
 angles==1.9.12
 asgiref==3.2.5
 bondpy==1.8.3
