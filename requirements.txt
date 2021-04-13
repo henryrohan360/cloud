@@ -3,6 +3,4 @@ Django==3.0.4
 django-heroku
 pytz==2019.3
 sqlparse==0.3.1
-libmysqlclient-dev
-default-libmysqlclient-dev
 mysqlclient
