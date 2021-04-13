@@ -1,6 +1,4 @@
 asgiref==3.2.5
-camera-calibration==1.12.23
-camera-calibration-parsers==1.11.13
 catkin==0.7.20
 cv-bridge==1.12.8
 diagnostic-analysis==1.9.3
